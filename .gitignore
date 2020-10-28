@@ -1,0 +1,8 @@
+# python
+.DS_Store
+.ipynb_checkpoints/
+
+# other files
+*.txt
+*.pkl
+chromedriver*
